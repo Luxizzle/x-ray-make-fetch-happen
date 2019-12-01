@@ -1,0 +1,26 @@
+{
+  "name": "@luxizzle/x-ray-make-fetch-happen",
+  "version": "1.0.0",
+  "description": "make-fetch-happen driver for x-ray",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "x-ray",
+    "driver",
+    "make-fetch-happen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Luxizzle/x-ray-make-fetch-happen.git"
+  },
+  "author": "Jelmer de Waal <hi@lux.moe>",
+  "license": "MIT",
+  "peerDependencies": {
+    "make-fetch-happen": "^6.1.0"
+  },
+  "devDependencies": {
+    "x-ray": "^2.3.4"
+  }
+}
