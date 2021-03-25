@@ -1,6 +1,6 @@
 {
   "name": "@luxizzle/x-ray-make-fetch-happen",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "make-fetch-happen driver for x-ray",
   "main": "index.js",
   "scripts": {
